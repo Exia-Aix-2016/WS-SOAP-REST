@@ -1,6 +1,6 @@
 # Ws-SOAP-REST
 Prosit Java EE SOAP AND REST
-Workshop CESI about Java persistence API
+
 
 
 All instruction are in tutoriel_DAD_trad_v2 Tuteur et Etudiants
